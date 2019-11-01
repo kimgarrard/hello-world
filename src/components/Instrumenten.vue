@@ -53,7 +53,7 @@ p {
   color: white;
   background-color: #ea4e55;
   padding: 0.2em 0.5em;
-  margin: 4% 0.7em;
+  margin: 5% 0.7em;
 }
 
 .div {
